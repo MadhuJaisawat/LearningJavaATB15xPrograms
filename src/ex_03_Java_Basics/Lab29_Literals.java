@@ -6,7 +6,7 @@ public class Lab29_Literals {
     //data types data type name (identifier) operator value
     // lierals= 25;
     final float PI = 3.14f;
-    final int age =18;
+    final int age1 =18;
 
 
 
