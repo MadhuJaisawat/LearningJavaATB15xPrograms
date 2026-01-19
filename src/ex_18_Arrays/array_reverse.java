@@ -1,0 +1,11 @@
+package ex_18_Arrays;
+
+public class array_reverse {
+    public static void main(String[] args) {
+        int arr[] = {2,4,7,9,3,4};
+        for (int i=arr.length-1;i>=0;i--){
+            System.out.println(arr[i]);
+
+        }
+    }
+}
